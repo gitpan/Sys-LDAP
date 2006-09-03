@@ -1,0 +1,11 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         Sys-LDAP
+version:      0.10_20060903
+version_from: LDAP.pm
+installdirs:  site
+requires:
+    Net::LDAP:                     0.33
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.17

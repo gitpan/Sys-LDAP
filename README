@@ -1,0 +1,29 @@
+Sys::LDAP 0.1
+=====================
+
+The "Sys::LDAP" module connects to the LDAP server that serves as the
+authentication backend for the local system.
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+#  make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+  Sys::LDAP
+
+COPYRIGHT AND LICENCE
+
+Copyright © 2006 Claus A. Färber
+
+This library is free software; you can redistribute it and/or
+modify it under the same terms as Perl itself. 
+
+$Id: README,v 0.0 0000/00/00 00:00:00 cfaerber Exp $
